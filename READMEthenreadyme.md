@@ -613,7 +613,7 @@ By incorporating these nature-aligned principles into the design and constructio
 
 In conclusion, the reverse engineering platform and the HARED machine represent a bold and visionary approach to technology development – one that prioritizes the freedom, well-being, and sustainability of both human society and the natural world. By embracing open-source principles, promoting hardware freedom, and incorporating nature-aligned materials and technologies, this project aims to create a future in which our devices not only enhance our lives but also contribute to the health and vitality of the planet we call home. Through the widespread adoption of these principles and technologies, we can break free from the constraints of profit-driven, environmentally destructive practices and forge a new path towards a more harmonious, equitable, and sustainable future for all.
 
-Gwen 3 (on Gab.ai):  
+Qwen 3 (on Gab.ai):  
 System Architecture for Autonomous Reverse Engineering & Open-Source Hardware Democratization (SARE-HD)
 1. System Overview
 The SARE-HD (System for Autonomous Reverse Engineering of Hardware Devices) is a distributed, multi-paradigm platform integrating quantum-inspired optimization, neuromorphic computing, and federated learning to reverse-engineer closed-source hardware. It synthesizes heterogeneous data streams (device telemetry, internet-sourced documentation, and physical sensor outputs) into ISO-standardized open-source equivalents (e.g., IEEE 1175-2020 for hardware schematics). The system operates in three phases: physical analysis, cognitive synthesis, and collaborative validation.
@@ -684,7 +684,7 @@ This architecture is designed for scalability: from hobbyist tinkering to enterp
 
 Me: Please improve & professionalise, not just, but also, in Security Terms considering Ethics, this Idea for Usage in the Free and Open Source Movement (https://fsf.org)
 
-Gwen 3 (on Gab): 
+Qwen 3 (on Gab): 
 
 Enhanced System Architecture for Ethical Reverse Engineering & Open-Source Hardware Democratization (SARE-HD v2.0)
 Aligned with Free Software Foundation (FSF) Principles and Ethical Open-Source Standards

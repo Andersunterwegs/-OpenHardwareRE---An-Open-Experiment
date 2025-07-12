@@ -19,7 +19,7 @@ Florian Philip Müller
 _______________
 
 Note: we encourage you to add the below to your existing `README.md` on your GitHub project.
-
+https://codeberg.org/Anders_unterwegs/OpenHardwareREAn-Open-ExperimentHardwareReverseEngineeringSchenker
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
